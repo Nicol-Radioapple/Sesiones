@@ -1,0 +1,9 @@
+for(en el 1er argumento que se ejecuta antes de que comienzen todas las repeticiones,controla la cantidad de repeticiones 
+ejemplo= for(var i=1;  i=5 ; i=i+1){
+	  consol.log(i)
+}
+
+
+for(var i=  1;   2;   3)
+
+{

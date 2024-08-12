@@ -1,0 +1,3 @@
+git config --global user.same "mi nombre"
+
+git config --global user.same "mi email"

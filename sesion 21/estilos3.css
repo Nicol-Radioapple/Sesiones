@@ -1,0 +1,18 @@
+img{
+    border: 3px gold solid;
+    margin-left: 15px;
+}
+p{
+background-color: yellow;
+border: 3px red dashed;
+margin: 15px;
+}
+.zorro{
+    border: 3px brown solid;
+    width: 45%;
+    background-color: bisque;
+    margin: 0px;
+}
+h1{
+    margin-left: 15px;
+}

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <h1>Tienda de Macotas</h1>
+    </header>
+
+    <main>
+
+        <table>
+            <tr>
+                <td>Inicio</td>
+                <td>Nosotros</td>
+                <td>Escribenos</td>
+                <td>Registrate</td>
+            </tr>
+
+        </table>
+
+        <div>
+            <h2>Pastor Aleman</h2>
+            <img src="https://cdn.shopify.com/s/files/1/0268/6861/files/dog-1919406_960_720_grande.jpg?v=1530792114"
+                alt="Pastor Aleman">
+            <p>El Pastor Alemán es conocido por ser una raza versátil, inteligente y leal. Su apariencia es robusta y noble, con un pelaje doble que puede ser corto o medio. Tienen una disposición valiente y trabajadora, 
+                lo que los ha convertido en una elección popular en roles de trabajo, como perros policías y de búsqueda y rescate. 
+                Su carácter equilibrado y lealtad los convierte en excelentes compañeros familiares y protectores. Además, son altamente adiestrables y tienen una capacidad innata para aprender comandos y 
+                tareas. Aunque pueden ser protectores, también son afectuosos con sus compañeros humanos y pueden ser buenos con niños si se socializan adecuadamente desde jóvenes. En resumen, el Pastor Alemán es un perro dedicado,
+                 inteligente y versátil, apreciado por su habilidad para desempeñarse en diversas funciones y por su fuerte vínculo con la familia..</p>
+            <p>S/1150</p>
+        </div>
+        <div>
+            <h2>Golden Retriver</h2>
+            <img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSxoptGUPKPhWkuBCMeBkRMLdjkCMYhxcjZzNe7FAFRqm6AkZmYqa_u3SI-E1N0Tq2VIW6Z_VIk9kwC_Y4"
+                alt="Golden Retriver">
+            <p>El golden retriever es de temperamento apacible, inteligente y cariñoso. Los golden retrievers son
+                juguetones, aunque dóciles con los niños, y tienden a llevarse bien con otras mascotas y con los
+                extraños.
+                Estos perros tienen ganas de agradar, lo que probablemente explique por qué responden tan bien al
+                adiestramiento en obediencia, hecho que hace que sean perros de apoyo muy populares. También les gusta
+                trabajar, ya sea cazando aves o yendo a buscar las zapatillas de su propietario...
+                Los golden retrievers no ladran a menudo, y carecen de instintos de guarda, por lo que no cuentes con
+                ellos como buenos perros de guarda. No obstante, si se acerca alguien extraño, algunos golden retrievers
+                te lo harán saber.</p>
+            <p>S/1300</p>
+        </div>
+        <div>
+            <h2> Husky siberiano</h2>
+            <img src="https://www.purina.es/sites/default/files/styles/ttt_image_510/public/2024-02/sitesdefaultfilesstylessquare_medium_440x440public2022-08Siberian20Husky2.jpg?itok=d5njFuxB"
+                alt=" Husky siberianor">
+            <p>El Husky siberiano es un perro clásico del Norte. Son inteligentes pero de  alguna manera independientes y tercos. Dependen de la compañía humana, pero necesitan firmeza,
+                un entrenamiento amable y correcto desde que es cachorro. Estos son perros criados para correr, y el amor que tienen por correr sobrepasa el amor por sus custodios en momentos. El
+                Husky siberiano tiende a ser amigable con la gente incluyendo a los niños.
+                La mayoría de los Husky Siberianos son buenos con otros perros, especialmente con los que han crecido.
+                 Tienen un alto impulso por las presas y pueden atrapar gatos y otros animales. El Husky siberiano puede ser gran excavador,
+                particularmente en climas cálidos, porque les gusta crear lugares frescos para recostarse. No son ladradores como regla pero si aúllan..</p>
+            <p>S/1200</p>
+        </div>
+        <div>
+            <h2>Rottweiler</h2>
+            <img src="https://gatosyperros.org/wp-content/uploads/2019/03/El-Rottweiler-el-tambien-llamado-perro-carnicero-dest.jpg"
+                alt="Rottweiler">
+            <p>El Rottweiler ha sido seleccionado para un trabajo de guardia y protección, y esto debe ser guardado en la mente todo el tiempo. Un Rottweiler bien socializado se
+                lleva perfectamente con la gente y otros perros, pero los machos en particular pueden llegar a ser agresivos y dominantes. Son activos, inteligentes, y son completamente
+                confidenciales lo suficiente para actuar por si solos, así es que necesitar ser guiados desde el principio.
+                Si se les deja por si solos, el Rottweiler puede ser un ladrador molesto o cavador, y con su tamaño son capaces de mucha destrucción. Criado para trabajar, es mejor si se
+                les entrena y se les asigna tareas, aun que sea compañía para niños. La agresión puede ser un problema, y este perro es completamente capaz de causar daños severos, así es
+                que el Rottweiler necesita firmeza, paciencia y un dueño conocedor del tema.</p>
+            <p>S/1300</p>
+        </div>
+
+
+
+
+
+
+    </main>
+
+
+
+
+
+
+
+    <footer>
+
+    </footer>
+</body>
